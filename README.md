@@ -49,7 +49,7 @@ Relevant projects deploying global cloud computing skills.
 
 Minor projects focused on skills building.
 
-- [Flask on VS Code tutorial] (https://github.com/AlbertoJBaez/python-sample-vscode-flask-tutorial): A VS Code official tutorial on how to fluently work with flask on VS. A simple Flask application with three pages utilizing a shared base template is crafted. Throughout the tutorial, various aspects of Visual Studio Code are explored, encompassing the terminal, editor, debugger, code snippets, and additional functionalities
+- [Flask on VS Code tutorial](https://github.com/AlbertoJBaez/python-sample-vscode-flask-tutorial): A VS Code official tutorial on how to fluently work with flask on VS. A simple Flask application with three pages utilizing a shared base template is crafted. Throughout the tutorial, various aspects of Visual Studio Code are explored, encompassing the terminal, editor, debugger, code snippets, and additional functionalities
 
 - [Azure Container Registry project](https://github.com/AlbertoJBaez/acr-build-helloworld-node): A Node.js application is used to demonstrate scenarios for Azure Container Registry Tasks. ACR Tasks is a suite of features within Azure Container Registry that enables Docker container builds on Azure, as well as automated OS and framework patching for Docker containers.
 
