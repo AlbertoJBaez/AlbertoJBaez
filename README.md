@@ -31,9 +31,14 @@ I love working with tools and technologies related to:
 
 Here you'll find a selection of my most recent projects :
 
-- [Cloud & Devops Bootcamp final project](https://github.com/desafioteam1): This is an end-of-course project, developed by professionals diverse IT  fields in order to solve a problem raised in a brief and value the experience of each area. My input:
+- [Cloud & Devops Bootcamp final project](https://github.com/desafioteam1): This is an end-of-course project, developed by professionals diverse IT  fields in order to solve a problem raised in a brief and value the experience of each area.
+
+  My input:
+
   - Building a scalable, secure and efficient cloud architecture design for automation systems.
+
   - Automatic version synchronization and continuous systems and application deployment.
+
  
 - WIP
 
