@@ -29,7 +29,11 @@ I love working with tools and technologies related to:
 
 ## My Projects
 
-Here you'll find a selection of my most recent projects :
+Here you'll find a selection of my most recent projects.
+
+# Main Projects
+
+Relevant projects deploying global cloud computing skills.
 
 - [Cloud & Devops Bootcamp final project](https://github.com/desafioteam1): This is an end-of-course project, developed by professionals diverse IT  fields in order to solve a problem raised in a brief and value the experience of each area.
 
@@ -38,17 +42,25 @@ Here you'll find a selection of my most recent projects :
   - Building a scalable, secure and efficient cloud architecture design for automation systems.
 
   - Automatic version synchronization and continuous systems and application deployment.
-
  
-- WIP
+- [WIP] Further projects to be shown.
+
+# Side Projects
+
+Minor projects focused on skills building.
+
+- [Flask on VS Code tutorial] (https://github.com/AlbertoJBaez/python-sample-vscode-flask-tutorial): A VS Code official tutorial on how to fluently work with flask on VS. A simple Flask application with three pages utilizing a shared base template is crafted. Throughout the tutorial, various aspects of Visual Studio Code are explored, encompassing the terminal, editor, debugger, code snippets, and additional functionalities
+
+- [Azure Container Registry project](https://github.com/AlbertoJBaez/acr-build-helloworld-node): A Node.js application is used to demonstrate scenarios for Azure Container Registry Tasks. ACR Tasks is a suite of features within Azure Container Registry that enables Docker container builds on Azure, as well as automated OS and framework patching for Docker containers.
+
+- [Building a sample web using Dockerfile and Kubernetes](https://github.com/AlbertoJBaez/pipelines-javascript-docker): This code sample uses the Node.js web framework Express to create a basic web server using a Docker container image. The code sample also includes .yml files to deploy the containerized Node.JS application to a Kubernetes cluster.
+
+- [App users creation using MongoDB](https://github.com/AlbertoJBaez/users-app): This is a project built using the MERN Full Stack, which includes MongoDB, Express, React and Node.js. MongoDB is used as the database and Mongoose is used to interact with it. Mongoose provides a simple and easy to use interface to perform CRUD operations on the database. Credits to my bootcamp partner: @GabrielaSpace.
+
+- [App deployment using React and NodeJS on AWS ECS](https://github.com/AlbertoJBaez/react-nodejs-ecs): Example Project for deploying React app with NodeJS API on AWS ECS.
 
 
 <!--
-
-- [Project 2](link-to-project-2): Another project you'd like to highlight.
-- ...
-
-
 
 ## Continuous Learning
 
@@ -90,7 +102,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
-
 
 -->
