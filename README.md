@@ -31,7 +31,7 @@ I love working with tools and technologies related to:
 
 Here you'll find a selection of my most recent projects.
 
-# Main Projects
+### Main Projects
 
 Relevant projects deploying global cloud computing skills.
 
@@ -45,7 +45,7 @@ Relevant projects deploying global cloud computing skills.
  
 - [WIP] Further projects to be shown.
 
-# Side Projects
+### Side Projects
 
 Minor projects focused on skills building.
 
