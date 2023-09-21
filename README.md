@@ -43,6 +43,7 @@ Relevant projects deploying global cloud computing skills.
 
   - Automatic version synchronization and continuous systems and application deployment.
  
+  - [Code](https://github.com/AlbertoJBaez/full-stack) (WIP need to update the repository)
 - [WIP] Further projects to be shown.
 
 ### Side Projects
