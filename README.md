@@ -27,7 +27,7 @@ I love working with tools and technologies related to:
 - **Infrastructure as Code (IaC):** Terraform, CloudFormation.
 - **Automation:** Ansible.
 - **Continuous Integration/Continuous Deployment (CI/CD):** Jenkins, CircleCI, GitLab CI/CD.
-- **Monitoring and Observability:** Prometheus, Grafana.
+- **Monitoring and Observability:** AWS CloudWatch, AWS CloudTrail, GC Logging, Azure Monitor.
 
 ## My Projects
 
