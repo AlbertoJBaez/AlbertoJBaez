@@ -37,16 +37,16 @@ Here you'll find a selection of my most recent projects.
 
 Relevant projects deploying global cloud computing skills.
 
-- [Cloud & Devops Bootcamp final project](https://github.com/desafioteam1): This is an end-of-course project, developed by professionals diverse IT  fields in order to solve a problem raised in a brief and value the experience of each area.
+- [Cloud & Devops Bootcamp final project](https://github.com/desafioteam1): This is an end-of-course project, developed by professionals diverse IT fields in order to solve a problem raised in a brief and value the experience of each area.
 
   My input:
 
-  - Building a scalable, secure and efficient cloud architecture design for automation systems.
+  - Building a scalable, secure and efficient cloud architecture design for the project's automation system.
 
   - Automatic version synchronization and continuous systems and application deployment.
+    
+  - Check the [Cloud Project](https://github.com/AlbertoJBaez/Cloud-Input-Final-Project).
  
-  - [Code](https://github.com/AlbertoJBaez/full-stack) (WIP need to update the repository)
-- [WIP] Further projects to be shown.
 
 ### Side Projects
 
@@ -63,15 +63,20 @@ Minor projects focused on skills building.
 - [App deployment using React and NodeJS on AWS ECS](https://github.com/AlbertoJBaez/react-nodejs-ecs): Example Project for deploying React app with NodeJS API on AWS ECS.
 
 
-<!--
 
 ## Continuous Learning
 
 I'm always looking to learn and grow in my field. Currently, I'm exploring:
 
-- [Technology/Topic Name 1]: Brief description of why you're interested and what you hope to learn.
-- [Technology/Topic Name 2]: Same as above.
+- Terraform.
+- Python.
 
+<!--
+
+I'm always looking to learn and grow in my field. Currently, I'm exploring:
+
+- [Terraform]: Brief description of why you're interested and what you hope to learn.
+- [Python]: Same as above.
 
 -->
 
