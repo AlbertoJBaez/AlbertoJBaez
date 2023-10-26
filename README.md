@@ -66,12 +66,15 @@ Minor projects focused on skills building.
 
 ## Continuous Learning
 
-I'm always looking to learn and grow in my field. Currently, I'm exploring:
+I'm always looking to learn and grow in my field. Currently, I'm deepening my skills on:
 
-- Terraform.
-- Python.
+- [Terraform](https://www.udemy.com/course/curso-terraform/). Terraform is essential to manage Infrastructure as a Code in cloud environment. I am currently taking this course to improve the aquired bootcamp skills. 
+- [Python](https://www.pildorasinformaticas.es/course/curso-python/curriculum/). I was eager to take a full pyhton course from scratch although I have already widely worked with it. I am aiming to master the basics and middle level skills to be fully confident on an working environment. 
 
 <!--
+Formarse en Python potencia la automatización de tareas y scripting, fundamental en DevOps. Terraform capacita para gestionar infraestructura como código en entornos cloud, mejorando la orquestación.
+Formarse en Python es esencial para scripting y automatización en la gestión de servicios en la nube. Terraform capacita para infraestructura como código y orquestación eficiente.
+
 
 I'm always looking to learn and grow in my field. Currently, I'm exploring:
 
