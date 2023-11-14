@@ -26,7 +26,7 @@ I love working with tools and technologies related to:
 - **Container Orchestration:** Docker, Kubernetes.
 - **Infrastructure as Code (IaC):** Terraform, CloudFormation.
 - **Automation:** Ansible.
-- **Continuous Integration/Continuous Deployment (CI/CD):** Jenkins, CircleCI, GitLab CI/CD.
+- **Continuous Integration/Continuous Deployment (CI/CD):** Jenkins, CircleCI, GitLab CI/CD, Azure DevOps.
 - **Monitoring and Observability:** AWS CloudWatch, AWS CloudTrail, GC Logging, Azure Monitor.
 
 ## My Projects
